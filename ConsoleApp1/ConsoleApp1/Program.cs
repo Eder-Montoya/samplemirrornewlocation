@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Second commit change!");
             Console.WriteLine("Third commit change!");
             Console.WriteLine("After mirror commit change on destination!");
+            Console.WriteLine("After mirror Second commit change on destination!");
         }
     }
 }
